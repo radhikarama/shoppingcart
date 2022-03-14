@@ -1,0 +1,46 @@
+const Data={
+    Produtitems:[
+    {
+        id:'1',
+        name:'samsung',
+        image:'./Assests/laptop1.jpg',
+        price:'100000'
+    },
+    {
+        id:'2',
+        name:'HP',
+        image:'./Assests/laptop2.avif',
+        price:'80000'
+    },
+    {
+        id:'3',
+        name:'Dell',
+        image:'./Assests/laptop3.avif',
+        price:'70000'
+    },
+    {
+        id:'4',
+        name:'Lenovo',
+        image:'./Assests/laptop4.avif',
+        price:'35000'
+    },
+    {
+        id:'5',
+        name:'Acer',
+        image:'./Assests/laptop5.avif',
+        price:'30000'
+    },
+    {
+        id:'6',
+        name:'one plus',
+        image:'./Assests/mobile1.avif',
+        price:'16000'
+    },
+    {
+        id:'7',
+        name:'redmi',
+        image:'./Assests/mobile2.avif',
+        price:'14000'
+    }
+]}
+export default Data;

@@ -1,0 +1,40 @@
+.header{
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    position: sticky;
+    width:80%;
+    min-height: 80px;
+    justify-content: space-between;
+    text-align: center;
+    background-color: darkslategray;
+    padding-left: 30px;
+    overflow: hidden;
+    padding-right: 20px;
+  
+}
+.logo{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+.header-links{
+  display:flex;
+}
+.header-links ul li{
+list-style: none;
+display:inline-block;
+font-size: 18px;
+}
+.header-links a{
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    
+}
+.header-links a:hover{
+    color: brown;
+}
